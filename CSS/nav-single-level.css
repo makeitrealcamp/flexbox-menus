@@ -1,0 +1,14 @@
+/* Styles for Single Level Menu */
+
+@media screen and (min-width: 486px) {
+
+  #single-nav ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  #single-nav li {
+    flex: 1 0 auto;
+    text-align: center;
+  };
+}
